@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.pem
+github_actions_ec2
+github_actions_ec2.pub
+.DS_Store
